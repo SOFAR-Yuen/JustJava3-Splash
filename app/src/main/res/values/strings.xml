@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Yuen - Coffee App</string>
+    <string name="topping">TOPPING</string>
+    <string name="whippedCream">Whipped Cream</string>
+    <string name="chocolateCream">Chocolate Cream</string>
+    <string name="quantity">QUANTITY</string>
+</resources>
